@@ -1,4 +1,4 @@
-package com.bank.jms.JMSExample;
+package com.newfeatures.Java18;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
